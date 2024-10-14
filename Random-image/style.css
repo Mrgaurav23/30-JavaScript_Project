@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: brown;
+}
+
+.image-container{
+    text-align: center;
+}
+
+.image-container img{
+    height: 350px;
+    width: 350px;
+    margin: 8px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0,3);
+    background-color: lightgray;
+}
+
+.btn{
+    margin: 10px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: cadetblue;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btn:hover{
+    opacity: 0.8;
+}
