@@ -1,0 +1,1 @@
+padhai nahi karunga
