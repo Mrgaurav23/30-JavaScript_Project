@@ -1,1 +1,2 @@
-padhai nahi karungapadhai karlo guys
+padhai nahi karunga
+padhai karlo guys
